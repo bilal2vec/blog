@@ -16,7 +16,7 @@ I mostly use the airpods pro as well as a pair of over-ear noise cancelling head
 
 Here's a picture of everything on my desk (ignore the mess of chargers):
 
-![desk](../images/desk.jpg)
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/desk.jpg">
 
 ### Apps
 
