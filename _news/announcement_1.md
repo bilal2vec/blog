@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-05-03
 inline: true
 ---
 
-A simple inline announcement.
+May—Aug 2021: ML Intern @Cohere
