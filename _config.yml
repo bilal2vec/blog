@@ -8,7 +8,7 @@ middle_name:
 last_name: Khan
 email: bilal.khan1@uwaterloo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    My Blog. Based on [*folio](https://github.com/bogoli/-folio) design.
+    Bilal's Blog
 footer_text: >
     <a href='https://bilal2vec.github.io'>https://bilal2vec.github.io</a>
 
